@@ -1,0 +1,135 @@
+Asset Name: Sunny Land
+
+Link: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Ansimuz 
+
+Latest release Date: 10-Nov-2022
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Sunny Land Forest
+
+Link: https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Ansimuz
+
+Latest release Date: 24-Jan-2018
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Complete Music Collection FREE Edition
+
+Link: https://assetstore.unity.com/packages/audio/music/complete-music-collection-free-edition-119129
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Plastic Sound Design
+
+Latest release Date: 22-May-2019
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: DOTween (HOTween v2)
+
+Link: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Demigiant
+
+Latest release Date: 11-Aug-2023
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Free Pixel Mob
+
+Link: https://assetstore.unity.com/packages/2d/characters/free-pixel-mob-113577
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Henry Software
+
+Latest release Date: 24-May-2018
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Fantasy Wooden GUI : Free
+
+Link: https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Black Hammer
+
+Latest release Date: 18-Feb-2019
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Blue Flying Book, Purple Flying Book, Orange Flying Book
+
+Link: 	https://www.spriters-resource.com/pc_computer/maplestory/sheet/21826/
+	https://www.spriters-resource.com/pc_computer/maplestory/sheet/21828/
+	https://www.spriters-resource.com/pc_computer/maplestory/sheet/21823/	
+
+Author Name: Boo
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Gold treasure icons 16x16
+
+Link: https://opengameart.org/content/gold-treasure-icons-16x16
+
+License agreement: CC0 1.0 DEED
+
+Author Name: Bonsaiheldin
+
+Latest release Date: 14-Jun-2016
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Set of 8bit pixel graphics icons
+
+Link: https://www.pinterest.ca/pin/240801911319454388/	
+
+Author Name: user3679043
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Skill Icons
+
+Link: https://www.spriters-resource.com/ds_dsi/rpgtsukurudsrpgmakerds/sheet/31714/	
+
+Author Name: MagicMaker
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: FREE Casual Game SFX Pack
+
+Link: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Dustyroom
+
+Latest release Date: 04-Mar-2019
+
+-------------------------------------------------------------------------------------------------------
